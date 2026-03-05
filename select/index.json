@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Bad at Love",
+  "base_artist": "Halsey",
+  "createdAt": "2026-03-05T16:44:30.918111Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad At Love",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Amber Eyes",
+      "has_synced": false,
+      "path": "select/01_Bad_At_Love_Scott_Bradlee's_Postmodern_Jukebox_feat._Amber_Eyes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad At Love",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/02_Bad_At_Love_Scott_Bradlee's_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad At Love",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/03_Bad_At_Love_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad At Love",
+      "artist": "Mayday Parade",
+      "has_synced": true,
+      "path": "select/04_Bad_At_Love_Mayday_Parade.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad At Love",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/05_Bad_At_Love_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad at Love (Dillon Francis Remix)",
+      "artist": "Halsey",
+      "has_synced": false,
+      "path": "select/06_Bad_at_Love_(Dillon_Francis_Remix)_Halsey.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad At Love (Live From Webster Hall)",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/07_Bad_At_Love_(Live_From_Webster_Hall)_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BAD AT LOVE",
+      "artist": "Smith & Myers",
+      "has_synced": true,
+      "path": "select/08_BAD_AT_LOVE_Smith_&_Myers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad at Love",
+      "artist": "We Three",
+      "has_synced": false,
+      "path": "select/09_Bad_at_Love_We_Three.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad at Love",
+      "artist": "First to Eleven",
+      "has_synced": false,
+      "path": "select/10_Bad_at_Love_First_to_Eleven.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BAD AT LOVE - 2021 Mix",
+      "artist": "Smith & Myers",
+      "has_synced": true,
+      "path": "select/11_BAD_AT_LOVE_-_2021_Mix_Smith_&_Myers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BAD AT LOVE (2021 Mix)",
+      "artist": "Smith & Myers",
+      "has_synced": true,
+      "path": "select/12_BAD_AT_LOVE_(2021_Mix)_Smith_&_Myers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad At Love",
+      "artist": "Scott Bradlee's Postmodern Jukebox;Amber Eyes",
+      "has_synced": false,
+      "path": "select/13_Bad_At_Love_Scott_Bradlee's_Postmodern_Jukebox;Amber_Eyes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad At Love",
+      "artist": "Halsey",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_At_Love_Halsey.txt"
+    }
+  ]
+}
